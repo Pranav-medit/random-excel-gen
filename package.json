@@ -1,0 +1,14 @@
+{
+  "name": "random-excel-gen",
+  "version": "1.0.0",
+  "description": "Generate random data excel file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pranav HS",
+  "license": "MIT",
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  }
+}
